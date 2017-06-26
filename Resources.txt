@@ -1,0 +1,24 @@
+Intro to machine learning
+https://www.youtube.com/watch?v=COSXg5HKaO4
+
+Deep learning without a phd  (pretty heavy)
+https://www.youtube.com/watch?v=vq2nnJ4g6N0
+
+TensorFlow
+https://www.tensorflow.org
+
+TensorFlow - getting started
+https://www.tensorflow.org/get_started/
+
+Python programming language
+https://www.python.org/about/gettingstarted/
+
+
+ML and TensorFlow book
+Hands on Machine Learning with Scikit-Learn and Tensorflow
+https://www.amazon.co.uk/d/cka/Hands-Machine-Learning-Scikit-Learn-Tensorflow-Techniques-Intelligent/1491962291
+
+
+
+
+
